@@ -4,7 +4,7 @@
 
 The Human Poster Child is an independent creative initiative dedicated to celebrating human-made poster art and connecting artists with the people, projects, and communities that need them.
 
-In a world increasingly saturated with AI-generated imagery, we believe there's something worth preserving about art made by people: the imagination, intention, experimentation, individuality, and lived experience behind every design.
+In a world increasingly saturated with AI-generated imagery, we believe it is more important than ever to preserve and support the value of art made by people: the imagination, intention and meaning behind every design.
 
 Our mission is simple: **make it easier to discover, support, and commission human artists.**
 
